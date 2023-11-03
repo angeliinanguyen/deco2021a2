@@ -10,23 +10,3 @@ unityTimeStamp,Event
 2023-10-12|18:46:19.610,New App Execution
 unityTimeStamp,Event
 2023-10-12|18:48:44.136,New App Execution
-unityTimeStamp,Event
-2023-11-02|23:14:51.831,New App Execution
-unityTimeStamp,Event
-2023-11-03|14:11:34.797,New App Execution
-unityTimeStamp,Event
-2023-11-03|14:32:04.590,New App Execution
-unityTimeStamp,Event
-2023-11-03|14:52:40.647,New App Execution
-unityTimeStamp,Event
-2023-11-03|14:55:30.358,New App Execution
-unityTimeStamp,Event
-2023-11-03|14:57:56.284,New App Execution
-unityTimeStamp,Event
-2023-11-03|14:58:55.826,New App Execution
-unityTimeStamp,Event
-2023-11-03|15:03:09.073,New App Execution
-unityTimeStamp,Event
-2023-11-03|15:12:36.777,New App Execution
-unityTimeStamp,Event
-2023-11-03|15:22:55.729,New App Execution
